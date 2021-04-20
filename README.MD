@@ -11,13 +11,12 @@ Software para Puntos de Venta, Ferreterías, Bodegas, Farmacias y muchos otros n
 Primero restauramos la base de datos MySQL, después se tiene que agregar los valores correspondiente en el archivo `sistema/configuracion.php`:
 
 ```php
-{
     define('HOST',		'127.0.0.1');
     define('USER',		'root');
     define('PASSWORD',	'');
     define('PORT',		'database port');
     define('DB',		'database name');
-}
+
 ```
 ## Modulos
 
