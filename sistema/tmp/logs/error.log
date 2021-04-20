@@ -1,0 +1,85 @@
+[04-Mar-2020 10:41:35 America/Costa_Rica] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\StockAPP-master\sistema\clase\conexion.clase.php on line 33
+[04-Mar-2020 10:41:35 America/Costa_Rica] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\StockAPP-master\sistema\clase\conexion.clase.php on line 35
+[04-Mar-2020 10:41:39 America/Costa_Rica] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\StockAPP-master\sistema\clase\conexion.clase.php on line 33
+[04-Mar-2020 10:41:39 America/Costa_Rica] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\StockAPP-master\sistema\clase\conexion.clase.php on line 35
+[04-Mar-2020 17:42:32 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\StockAPP-master\sistema\clase\conexion.clase.php on line 33
+[04-Mar-2020 17:42:32 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\StockAPP-master\sistema\clase\conexion.clase.php on line 35
+[04-Mar-2020 17:45:01 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\StockAPP-master\sistema\clase\conexion.clase.php on line 33
+[04-Mar-2020 17:45:01 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\StockAPP-master\sistema\clase\conexion.clase.php on line 35
+[04-Mar-2020 18:06:52 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 22
+[04-Mar-2020 18:06:52 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 24
+[04-Mar-2020 18:06:52 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 77
+[04-Mar-2020 18:06:52 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 2
+[04-Mar-2020 18:06:52 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 30
+[04-Mar-2020 18:06:52 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 52
+[04-Mar-2020 18:06:52 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 168
+[04-Mar-2020 18:06:57 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 22
+[04-Mar-2020 18:06:57 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 24
+[04-Mar-2020 18:06:57 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 77
+[04-Mar-2020 18:06:57 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 2
+[04-Mar-2020 18:06:57 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 30
+[04-Mar-2020 18:06:57 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 52
+[04-Mar-2020 18:06:57 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 168
+[04-Mar-2020 18:07:00 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 22
+[04-Mar-2020 18:07:00 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 24
+[04-Mar-2020 18:07:00 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 77
+[04-Mar-2020 18:07:00 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 2
+[04-Mar-2020 18:07:00 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 30
+[04-Mar-2020 18:07:00 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 52
+[04-Mar-2020 18:07:00 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 168
+[04-Mar-2020 18:07:22 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\index.php on line 77
+[04-Mar-2020 18:07:22 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 2
+[04-Mar-2020 18:07:22 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 30
+[04-Mar-2020 18:07:22 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 52
+[04-Mar-2020 18:07:22 Europe/Berlin] PHP Notice:  Undefined variable: usuarioApp in C:\xampp\htdocs\StockAPP-master\consulta.php on line 168
+[04-Mar-2020 18:37:47 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:37:55 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:38:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:38:13 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:38:14 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:40:37 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:40:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:40:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:40:49 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:40:49 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:41:00 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:41:01 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:41:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:41:07 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[04-Mar-2020 18:51:57 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[05-Mar-2020 17:00:07 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[05-Mar-2020 17:00:17 Europe/Berlin] PHP Warning:  unlink(estatico/img/): Is a directory in C:\xampp\htdocs\StockAPP-master\sistema\clase\sistema.clase.php on line 110
+[05-Mar-2020 17:00:17 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[05-Mar-2020 17:00:18 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:45:54 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:46:03 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:46:03 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:46:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\StockAPP-master\sistema\modulo\exportar-resumen.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\StockAPP-master\sistema\modulo\exportar-resumen.php on line 31
+[30-Nov-2020 17:47:32 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:47:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:47:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:47:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:47:48 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:47:49 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:47:54 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:47:55 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:48:01 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:48:01 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:48:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:48:12 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[30-Nov-2020 17:48:13 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[01-Dec-2020 00:55:31 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[01-Dec-2020 00:55:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[01-Dec-2020 00:55:44 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[06-Feb-2021 13:50:38 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[06-Feb-2021 13:51:10 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[06-Feb-2021 13:51:22 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[06-Feb-2021 13:51:33 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[06-Feb-2021 13:51:34 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\StockAPP-master\ajuste-sistema.php on line 365
+[06-Feb-2021 16:46:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\StockAPP-master\sistema\modulo\exportar-resumen.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\StockAPP-master\sistema\modulo\exportar-resumen.php on line 31
