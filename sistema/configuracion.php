@@ -46,7 +46,7 @@ define('URLNOTIFICARVENTA', '#');
  | ESTABLECER LA ZONA HORARIA PREDETERMINADA
  |-------------------------------------------
  */
-define('HORARIO', 'America/Costa_Rica');
+define('HORARIO', 'America/Ecuador');
 define('GOOGLEANALYTICS',		'');
 
 /**
